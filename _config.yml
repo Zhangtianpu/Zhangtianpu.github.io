@@ -59,11 +59,12 @@ content:
     content:
 #       - layout: top-middle
         - layout: left
-        title: The North China University of Technology
-        caption: 09.2020 - 2023
-
-        title: Super awesome project
-        link: github.com/sproogen
+          title: The North China University of Technology
+          caption: 09.2020 - 2023
+          description: | # this will include new lines to allow paragraphs
+           
+#         title: Super awesome project
+#         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
