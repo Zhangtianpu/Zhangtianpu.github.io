@@ -62,7 +62,7 @@ content:
         title: The North China University of Technology
         caption: 09.2020 - 06.2023
         description: | # this will include new lines to allow paragraphs
-        
+    content:
         - layout: left
         title: Beijing University of Civil Engineering and Architecture
         caption: 09.2015 - 06.2017
