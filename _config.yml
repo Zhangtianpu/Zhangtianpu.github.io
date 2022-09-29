@@ -48,15 +48,20 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/Treking.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Tianpu Zhang and I'm a post-graduate student at the North China University of Technology, majoring in **computer technology**. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hi, my name's Tianpu Zhang and I'm a post-graduate student at the North China University of Technology, majoring in **computer technology**.  As well as, I obtained **3.91 GPA** through my hard work. 
+  At the same time, at 2021 and 2022, I was rewarded the **first calss academic scholarship** for post-graduate students and the **national scholarship** for post-graduate students.
+  During these years, my research insterests are **deep learning**, **spatio-temporal big data** and **smart city**. 
+  In the process of research, I gradually proficiency with some technology in deep learing, big data and so on, while I published some papers you can find it at the Publications section.
 
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+#       - layout: top-middle
+        - layout: left
+        title: The North China University of Technology
+        caption: 09.2020 - 2023
+
         title: Super awesome project
         link: github.com/sproogen
         # link_text: Project Website
