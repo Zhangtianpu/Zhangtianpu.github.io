@@ -58,10 +58,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
 #       - layout: top-middle
-        - layout: left
-          title: The North China University of Technology
-          caption: 09.2020 - 2023
-          description: | # this will include new lines to allow paragraphs
+      - layout: left
+        title: The North China University of Technology
+        caption: 09.2020 - 2023
+        description: | # this will include new lines to allow paragraphs
            
 #         title: Super awesome project
 #         link: github.com/sproogen
