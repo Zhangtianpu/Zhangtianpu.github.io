@@ -53,27 +53,32 @@ about_content: | # this will include new lines to allow paragraphs
   During these years, my research insterests are **deep learning**, **spatio-temporal big data** and **smart city**. 
   In the process of research, I gradually proficiency with some technology in deep learing, big data and so on, while I published some papers you can find it at the Publications section.
 
+
+
 content:
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Education
+    layout: list
     content:
       - layout: left
+        border: weak
         title: The North China University of Technology
-        caption: 09.2020 - 06.2023
-        description: | # this will include new lines to allow paragraphs
+        sub_title: Lead Frontend Software Engineer
+        caption: September 2020 - Present
+        description: |
           I am a post-graduate student right now in the School of Information Science and Technology at North China University of Technology. 
           I will graduate by June 2023 and get my master of engineering degree. The laboratory I worked for is Beijing Key Laboratory on Integration and Analysis of Large-scale Stream Data and the head of it is Yanbo Han professor.
           My major professor is Weilong Ding, under his guidiance, I have researched and achieved some publications on deep learning, spatio-temporal big data and smart city. 
           My major courses include Machine learning and applications, Mathematical Foundations in Deep Learning, Advanced Algorithm Design and Analysis, Advanced Mathematical Statistics, Matrix Analysis and so on.
+      - layout: left
+        border: weak
+        title: Beijing University of Civil Engineering and Architecture
+        sub_title: Frontend Software Engineer
+        caption: September 2015 - June 2017
+        description: |
+          Being a undergraduate student, my major was geographic infomation science in the School of Geomatics and Urban Spatial Informatics at Beijing University of Civil Engineering and Architecture.
+          My major courses have Spatial Database Principles, GIS design and implementation, GPS data processing, Photogrammetry and Remote Sensing and so on. 
+          In the course of my studies, I was intorducted to programming and developed a keen interest in it. Therefore, I chosen a graduation project related programming named The Development of Lightweight WebGis Based on Json, which used geoserver and opeenlayers to display geographic information and applied ECharts to show statistical data.
 
-       - layout: left
-         title: Beijing University of Civil Engineering and Architecture
-         caption: 09.2015 - 06.2017
-         description: | # this will include new lines to allow paragraphs
-           Being a undergraduate student, my major was geographic infomation science in the School of Geomatics and Urban Spatial Informatics at Beijing University of Civil Engineering and Architecture.
-           My major courses have Spatial Database Principles, GIS design and implementation, GPS data processing, Photogrammetry and Remote Sensing and so on. 
-           In the course of my studies, I was intorducted to programming and developed a keen interest in it. Therefore, I chosen a graduation project related programming named The Development of Lightweight WebGis Based on Json, which used geoserver and opeenlayers to display geographic information and applied ECharts to show statistical data.
-        
     
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
