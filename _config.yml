@@ -87,17 +87,21 @@ content:
         title: Modern Resume Theme
         description: |
           Zhang, T., Ding, W., Chen, T., Wang, Z., & Chen, J. (2021). A graph convolutional method for traffic flow prediction in highway network. Wireless Communications and Mobile Computing,2021. 
+          
           Zhang, T., Ding, W., Xing, M., Chen, J., Du, Y., & Liang, Y. (2021, October). Geographic and Temporal Deep Learning Method for Traffic Flow Prediction in Highway Network. In International Conference on Collaborative Computing: Networking, Applications and Worksharing (pp. 385-400). Springer, Cham.
+          
           Xing, M., Ding, W., Li, H., & Zhang, T. (2022). A Power Transformer Fault Prediction Method through Temporal Convolutional Network on Dissolved Gas Chromatography Data. Security and Communication Networks, 2022.
  
-#  - title: In preparation 
-#    layout: list
-#    content:
-#      - layout: top-middle
-#        description: |
-#          *Attention-based Dynamic Graph Convolutional Recurrent Neural Network for Traffic Flow Prediction Service in Transportation domain
-#          *Spatio-temporal Genetic Neural Networks for Traffic Prediction
-#          *Phased Deep Spatio-temporal Learning for Highway Traffic Volume Prediction
+   - title: In preparation 
+     layout: list
+     content:
+       - layout: top-middle
+         description: |
+           Attention-based Dynamic Graph Convolutional Recurrent Neural Network for Traffic Flow Prediction Service in Transportation domain
+           
+           Spatio-temporal Genetic Neural Networks for Traffic Prediction
+           
+           Phased Deep Spatio-temporal Learning for Highway Traffic Volume Prediction
 
   - title: Project Experiience
     layout: text
