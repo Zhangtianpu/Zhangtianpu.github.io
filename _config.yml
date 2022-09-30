@@ -92,16 +92,16 @@ content:
           
           Xing, M., Ding, W., Li, H., & Zhang, T. (2022). A Power Transformer Fault Prediction Method through Temporal Convolutional Network on Dissolved Gas Chromatography Data. Security and Communication Networks, 2022.
  
-   - title: In preparation 
-     layout: list
-     content:
-       - layout: top-middle
-         description: |
-           Attention-based Dynamic Graph Convolutional Recurrent Neural Network for Traffic Flow Prediction Service in Transportation domain
+#    - title: In preparation 
+#      layout: list
+#      content:
+#        - layout: top-middle
+#          description: |
+#            Attention-based Dynamic Graph Convolutional Recurrent Neural Network for Traffic Flow Prediction Service in Transportation domain
            
-           Spatio-temporal Genetic Neural Networks for Traffic Prediction
+#            Spatio-temporal Genetic Neural Networks for Traffic Prediction
            
-           Phased Deep Spatio-temporal Learning for Highway Traffic Volume Prediction
+#            Phased Deep Spatio-temporal Learning for Highway Traffic Volume Prediction
 
   - title: Project Experiience
     layout: text
