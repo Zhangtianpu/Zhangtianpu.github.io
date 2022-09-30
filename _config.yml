@@ -79,11 +79,13 @@ content:
           My major courses have Spatial Database Principles, GIS design and implementation, GPS data processing, Photogrammetry and Remote Sensing and so on. 
           In the course of my studies, I was intorducted to programming and developed a keen interest in it. Therefore, I chosen a graduation project related programming named The Development of Lightweight WebGis Based on Json, which used geoserver and opeenlayers to display geographic information and applied ECharts to show statistical data.
 
-    
-  - title: Publications # Title for the section
+  - title: Publications
     layout: list
     content:
       - layout: top-middle
+        border: weak
+        title: Modern Resume Theme
+        link: sproogen.github.io/modern-resume-theme
         description: |
           Zhang, T., Ding, W., Chen, T., Wang, Z., & Chen, J. (2021). A graph convolutional method for traffic flow prediction in highway network. Wireless Communications and Mobile Computing,2021. 
           
