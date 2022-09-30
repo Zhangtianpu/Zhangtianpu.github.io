@@ -91,7 +91,7 @@ content:
           
           Xing, M., Ding, W., Li, H., & Zhang, T. (2022). A Power Transformer Fault Prediction Method through Temporal Convolutional Network on Dissolved Gas Chromatography Data. Security and Communication Networks, 2022.
   
-  - title: Publications
+  - title: In preparation
     layout: list
     content:
       - layout: top-middle
@@ -103,18 +103,38 @@ content:
            
           Phased Deep Spatio-temporal Learning for Highway Traffic Volume Prediction
 
-
   - title: Project Experiience
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+    layout: list
+    content:
+      - layout: left
+        border: weak
+        title: Yunqishidai Technology Co.
+        sub_title: Data Analysis Engineer
+#         caption: July 2019 - August 2020        
+        description: |
+          That company worked for State Grid. My duty was to build a data storage and analysis platform through big data technology to supporting state gride new energy cloud platform which is a system facilitating citizens’ electricity transactions.
+          Meanwhile, an electricity power predictive system for photovoltaic power stations and a recommendation system for news in renewable energy field was designed by using machine learning technology. 
+          
+      - layout: left
+        border: weak
+        title: Unicom big data Co., Ltd
+        sub_title: Data Analysis Engineer
+#         caption: September 2015 - June 2017
+        description: |
+          As one of the three major telecom operators in China, Unicom Big Data has petabytes of data.
+          My main work was to use big data technologies such as hive, spark, etc. to analyze the custom’s behavior to build data profile and extract relevant data from data warehouse according to customer needs.
+          
+#   - title: Project Experiience
+#     layout: text
+#     content: | # this will include new lines to allow paragraphs
+#       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+#       - Rock climbing
+#       - Gaming
+#       - Knitting
+#       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+#       Look at this cool image  
+#       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
