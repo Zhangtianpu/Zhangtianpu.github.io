@@ -84,7 +84,7 @@ content:
     layout: list
     content:
       - layout: top-middle
-        description: 
+        description: |
           Zhang, T., Ding, W., Chen, T., Wang, Z., & Chen, J. (2021). A graph convolutional method for traffic flow prediction in highway network. Wireless Communications and Mobile Computing,2021. 
           
           Zhang, T., Ding, W., Xing, M., Chen, J., Du, Y., & Liang, Y. (2021, October). Geographic and Temporal Deep Learning Method for Traffic Flow Prediction in Highway Network. In International Conference on Collaborative Computing: Networking, Applications and Worksharing (pp. 385-400). Springer, Cham.
