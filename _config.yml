@@ -65,18 +65,18 @@ content:
         sub_title: Information Science and Technology
         caption: September 2020 - Present
         description: |
-          I am a post-graduate student right now in the School of Information Science and Technology at North China University of Technology. 
-          I will graduate by June 2023 and get my master of engineering degree. The laboratory I worked for is Beijing Key Laboratory on Integration and Analysis of Large-scale Stream Data and the head of it is Yanbo Han professor.
-          My major professor is Weilong Ding, under his guidiance, I have researched and achieved some publications on deep learning, spatio-temporal big data and smart city. 
-          My major courses include Machine learning and applications, Mathematical Foundations in Deep Learning, Advanced Algorithm Design and Analysis, Advanced Mathematical Statistics, Matrix Analysis and so on.
+          I am a postgraduate student right now in the School of Information Science and Technology at North China University of Technology. 
+          I will graduate by June 2023 and get my master of engineering degree. The laboratory I worked for is **Beijing Key Laboratory on Integration and Analysis of Large-scale Stream Data** and the head of it is **Yanbo Han professor**.
+          My major professor is **Weilong Ding**, under his guidiance, I have researched and achieved some publications on deep learning, spatio-temporal big data and smart city. 
+          My **major courses** include Machine learning and applications, Mathematical Foundations in Deep Learning, Advanced Algorithm Design and Analysis, Advanced Mathematical Statistics, Matrix Analysis and so on.
       - layout: left
         border: weak
         title: Beijing University of Civil Engineering and Architecture
         sub_title: Geomatics and Urban Spatial Informatics
         caption: September 2015 - June 2017
         description: |
-          Being a undergraduate student, my major was geographic infomation science in the School of Geomatics and Urban Spatial Informatics at Beijing University of Civil Engineering and Architecture.
-          My major courses have Spatial Database Principles, GIS design and implementation, GPS data processing, Photogrammetry and Remote Sensing and so on. 
+          My bachelor's degree is in **geographic infomation science** in the School of Geomatics and Urban Spatial Informatics at Beijing University of Civil Engineering and Architecture.
+          My **major courses** have Embedded development of GIS, GIS Software Application, Computational Method, Spatial Database, Photogrammetry Fundamental, Technology of Satellite navigation and positioning, Application of ENVI, Principles and Applications of Remote Sensing and so on. 
           In the course of my studies, I was intorducted to programming and developed a keen interest in it. Therefore, I chosen a graduation project related programming named The Development of Lightweight WebGis Based on Json, which used geoserver and opeenlayers to display geographic information and applied ECharts to show statistical data.
 
   - title: Publications
@@ -87,21 +87,18 @@ content:
         description: |
           **Zhang, T.**, Ding, W., Chen, T., Wang, Z., & Chen, J. (2021). A graph convolutional method for traffic flow prediction in highway network. Wireless Communications and Mobile Computing,2021. 
           
-          Zhang, T., Ding, W., Xing, M., Chen, J., Du, Y., & Liang, Y. (2021, October). Geographic and Temporal Deep Learning Method for Traffic Flow Prediction in Highway Network. In International Conference on Collaborative Computing: Networking, Applications and Worksharing (pp. 385-400). Springer, Cham.
+          **Zhang, T.**, Ding, W., Xing, M., Chen, J., Du, Y., & Liang, Y. (2021, October). Geographic and Temporal Deep Learning Method for Traffic Flow Prediction in Highway Network. In International Conference on Collaborative Computing: Networking, Applications and Worksharing (pp. 385-400). Springer, Cham.
           
-          Xing, M., Ding, W., Li, H., & Zhang, T. (2022). A Power Transformer Fault Prediction Method through Temporal Convolutional Network on Dissolved Gas Chromatography Data. Security and Communication Networks, 2022.
+          Xing, M., Ding, W., Li, H., & **Zhang, T**. (2022). A Power Transformer Fault Prediction Method through Temporal Convolutional Network on Dissolved Gas Chromatography Data. Security and Communication Networks, 2022.
   
-  - title: In preparation
+  - title: In Submissions
     layout: list
     content:
       - layout: top-middle
         border: weak
         description: |
-          Attention-based Dynamic Graph Convolutional Recurrent Neural Network for Traffic Flow Prediction Service in Transportation domain
+           Ding, W, **Zhang, T.**,  Xing, M.,  Attention-based Dynamic Graph Convolutional Recurrent Neural Network for Traffic Flow Prediction in Highway Transportation. The Web Conference 2023: International World Wide Web Conference (WWW), 2023.
            
-          Spatio-temporal Genetic Neural Networks for Traffic Prediction
-           
-          Phased Deep Spatio-temporal Learning for Highway Traffic Volume Prediction
 
   - title: Project Experiience
     layout: list
@@ -112,8 +109,9 @@ content:
         sub_title: Data Analysis Engineer
 #         caption: July 2019 - August 2020        
         description: |
-          That company worked for State Grid. My duty was to build a data storage and analysis platform through big data technology to supporting state gride new energy cloud platform which is a system facilitating citizens’ electricity transactions.
-          Meanwhile, an electricity power predictive system for photovoltaic power stations and a recommendation system for news in renewable energy field was designed by using machine learning technology. 
+          As a third-party vendor, it works for the state grid to provide technical support to the development state grid new energy cloud platform. 
+          My duty was to build data storage and analysis platform through big data technology to support the state grid new energy cloud platform which is a system facilitating citizens’ electricity transactions. 
+          Meanwhile, an electricity power predictive system for photovoltaic power stations and a recommendation system for news in the renewable energy field was designed by using machine learning technology. 
           
       - layout: left
         border: weak
