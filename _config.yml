@@ -85,15 +85,15 @@ content:
       - layout: top-middle
         border: weak
         description: |
-          **Zhang, T.**, Ding, W., Chen, T., Wang, Z., & Chen, J. (2021). A graph convolutional method for traffic flow prediction in highway network. Wireless Communications and Mobile Computing,2021. 
+          [1] **Zhang, T.**, Ding, W., Chen, T., Wang, Z., & Chen, J. (2021). A graph convolutional method for traffic flow prediction in highway network. Wireless Communications and Mobile Computing,2021. 
           
           In this paper, we propose a graph convolutional method. And the name of our model proposed is the hybrid graph convolutional network (HGCN), which comprehensively considers time, space, weather conditions and date type to achieve better predicted results of traffic flow at highway stations. 
           
-          **Zhang, T.**, Ding, W., Xing, M., Chen, J., Du, Y., & Liang, Y. (2021, October). Geographic and Temporal Deep Learning Method for Traffic Flow Prediction in Highway Network. In International Conference on Collaborative Computing: Networking, Applications and Worksharing (pp. 385-400). Springer, Cham.
+          [2] **Zhang, T.**, Ding, W., Xing, M., Chen, J., Du, Y., & Liang, Y. (2021, October). Geographic and Temporal Deep Learning Method for Traffic Flow Prediction in Highway Network. In International Conference on Collaborative Computing: Networking, Applications and Worksharing (pp. 385-400). Springer, Cham.
           
            In this paper a method is proposed based on deep learning that can capture the geographic spatial relationship among toll stations, the dynamic temporal relationship of historical traffic flow, extreme weather and calendar types. On the three metrics of MAPE, MAE, and RMSE, the prediction effect of our model has increased by 30% compared with KNN, GBRT and LSTM models.
           
-          Xing, M., Ding, W., Li, H., & **Zhang, T**. (2022). A Power Transformer Fault Prediction Method through Temporal Convolutional Network on Dissolved Gas Chromatography Data. Security and Communication Networks, 2022.
+          [3] Xing, M., Ding, W., Li, H., & **Zhang, T**. (2022). A Power Transformer Fault Prediction Method through Temporal Convolutional Network on Dissolved Gas Chromatography Data. Security and Communication Networks, 2022.
         
           We propose a method for fault prediction for power transformers based on dissolved gas chromatography data: after data preprocessing of defective raw data, fault classification is performed based on the predictive regression results. Here, Mish-SN Temporal Convolutional Network (MSTCN) is introduced to improve the accuracy during the regression step. Several experiments are conducted using data set from China State Grid. The discussion of the results of experiments is provided.
         
