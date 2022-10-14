@@ -103,7 +103,7 @@ content:
       - layout: top-middle
         border: weak
         description: |
-           Ding, W, **Zhang, T.**,  Xing, M.,  Attention-based Dynamic Graph Convolutional Recurrent Neural Network for Traffic Flow Prediction in Highway Transportation. The Web Conference 2023: International World Wide Web Conference (WWW), 2023.
+           [1] Ding, W, **Zhang, T.**,  Xing, M.,  Attention-based Dynamic Graph Convolutional Recurrent Neural Network for Traffic Flow Prediction in Highway Transportation. The Web Conference 2023: International World Wide Web Conference (WWW), 2023.
            
            In this paper, a novel Attention-based Dynamic Graph Convolutional Recurrent Neural Network (ADGCRNN) is proposed to improve traffic flow prediction. Through a dedicated self-attention mechanism, 
            the characteristics of different temporal resolutions can be extracted from a global perspective. 
