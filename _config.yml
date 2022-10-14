@@ -77,7 +77,7 @@ content:
         description: |
           My bachelor's degree is in **geographic infomation science** in the School of Geomatics and Urban Spatial Informatics at Beijing University of Civil Engineering and Architecture.
           My **major courses** have Embedded development of GIS, GIS Software Application, Computational Method, Spatial Database, Photogrammetry Fundamental, Technology of Satellite navigation and positioning, Application of ENVI, Principles and Applications of Remote Sensing and so on. 
-          In the course of my studies, I was intorducted to programming and developed a keen interest in it. Therefore, I chosen a graduation project related programming named The Development of Lightweight WebGis Based on Json, which used geoserver and opeenlayers to display geographic information and applied ECharts to show statistical data.
+          In the course of my studies, I was intorducted to programming and developed a keen interest in it. Therefore, I chosen a graduation project related programming named **The Development of Lightweight WebGis Based on Json**, which used geoserver and opeenlayers to display geographic information and applied ECharts to show statistical data.
 
   - title: Publications
     layout: list
@@ -87,10 +87,16 @@ content:
         description: |
           **Zhang, T.**, Ding, W., Chen, T., Wang, Z., & Chen, J. (2021). A graph convolutional method for traffic flow prediction in highway network. Wireless Communications and Mobile Computing,2021. 
           
+          In this paper, we propose a graph convolutional method. And the name of our model proposed is the hybrid graph convolutional network (HGCN), which comprehensively considers time, space, weather conditions and date type to achieve better predicted results of traffic flow at highway stations. 
+          
           **Zhang, T.**, Ding, W., Xing, M., Chen, J., Du, Y., & Liang, Y. (2021, October). Geographic and Temporal Deep Learning Method for Traffic Flow Prediction in Highway Network. In International Conference on Collaborative Computing: Networking, Applications and Worksharing (pp. 385-400). Springer, Cham.
           
+           In this paper a method is proposed based on deep learning that can capture the geographic spatial relationship among toll stations, the dynamic temporal relationship of historical traffic flow, extreme weather and calendar types. On the three metrics of MAPE, MAE, and RMSE, the prediction effect of our model has increased by 30% compared with KNN, GBRT and LSTM models.
+          
           Xing, M., Ding, W., Li, H., & **Zhang, T**. (2022). A Power Transformer Fault Prediction Method through Temporal Convolutional Network on Dissolved Gas Chromatography Data. Security and Communication Networks, 2022.
-  
+        
+          We propose a method for fault prediction for power transformers based on dissolved gas chromatography data: after data preprocessing of defective raw data, fault classification is performed based on the predictive regression results. Here, Mish-SN Temporal Convolutional Network (MSTCN) is introduced to improve the accuracy during the regression step. Several experiments are conducted using data set from China State Grid. The discussion of the results of experiments is provided.
+        
   - title: In Submissions
     layout: list
     content:
@@ -99,7 +105,12 @@ content:
         description: |
            Ding, W, **Zhang, T.**,  Xing, M.,  Attention-based Dynamic Graph Convolutional Recurrent Neural Network for Traffic Flow Prediction in Highway Transportation. The Web Conference 2023: International World Wide Web Conference (WWW), 2023.
            
-
+           In this paper, a novel Attention-based Dynamic Graph Convolutional Recurrent Neural Network (ADGCRNN) is proposed to improve traffic flow prediction. Through a dedicated self-attention mechanism, 
+           the characteristics of different temporal resolutions can be extracted from a global perspective. 
+           Then, dynamically generated graphs in various semantics are fused with the static physical graph of road network, which would fully exploit spatial characteristics. 
+           For those dynamic graphs, another gated kernel is introduced further to avoid information overload and focus on local convolution. 
+           Experiments on two public datasets, PeMSD4 and PeMSD8, show that our work yields more accurate predictive results than current state-of-the-art.
+            
   - title: Project Experiience
     layout: list
     content:
@@ -107,7 +118,7 @@ content:
         border: weak
         title: Yunqishidai Technology Co.
         sub_title: Data Analysis Engineer
-#         caption: July 2019 - August 2020        
+        caption: July 2019 - August 2020        
         description: |
           As a third-party vendor, it works for the state grid to provide technical support to the development state grid new energy cloud platform. 
           My duty was to build data storage and analysis platform through big data technology to support the state grid new energy cloud platform which is a system facilitating citizens’ electricity transactions. 
@@ -117,7 +128,7 @@ content:
         border: weak
         title: Unicom big data Co., Ltd
         sub_title: Data Analysis Engineer
-#         caption: September 2015 - June 2017
+        caption: November 2018 - March 2019
         description: |
           As one of the three major telecom operators in China, Unicom Big Data has petabytes of data.
           My main work was to use big data technologies such as hive, spark, etc. to analyze the custom’s behavior to build data profile and extract relevant data from data warehouse according to customer needs.
