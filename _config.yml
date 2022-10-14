@@ -133,13 +133,19 @@ content:
           As one of the three major telecom operators in China, Unicom Big Data has petabytes of data.
           My main work was to use big data technologies such as hive, spark, etc. to analyze the custom’s behavior to build data profile and extract relevant data from data warehouse according to customer needs.
   
-  - title: Achievements
+  - title: In Submissions
     layout: list
     content:
-      - layout: left
+      - layout: top-middle
         border: weak
         description: |
-        Graduate Student Academic Scholarship at National Level 
+           [1] Ding, W, **Zhang, T.**,  Xing, M.,  Attention-based Dynamic Graph Convolutional Recurrent Neural Network for Traffic Flow Prediction in Highway Transportation. The Web Conference 2023: International World Wide Web Conference (WWW), 2023.
+           
+           In this paper, a novel Attention-based Dynamic Graph Convolutional Recurrent Neural Network (ADGCRNN) is proposed to improve traffic flow prediction. Through a dedicated self-attention mechanism, 
+           the characteristics of different temporal resolutions can be extracted from a global perspective. 
+           Then, dynamically generated graphs in various semantics are fused with the static physical graph of road network, which would fully exploit spatial characteristics. 
+           For those dynamic graphs, another gated kernel is introduced further to avoid information overload and focus on local convolution. 
+           Experiments on two public datasets, PeMSD4 and PeMSD8, show that our work yields more accurate predictive results than current state-of-the-art.
          
 #   - title: Project Experiience
 #     layout: text
