@@ -111,7 +111,7 @@ content:
            For those dynamic graphs, another gated kernel is introduced further to avoid information overload and focus on local convolution. 
            Experiments on two public datasets, PeMSD4 and PeMSD8, show that our work yields more accurate predictive results than current state-of-the-art.
             
-  - title: Project Experiience
+  - title: Project Experiences
     layout: list
     content:
       - layout: left
@@ -132,7 +132,14 @@ content:
         description: |
           As one of the three major telecom operators in China, Unicom Big Data has petabytes of data.
           My main work was to use big data technologies such as hive, spark, etc. to analyze the custom’s behavior to build data profile and extract relevant data from data warehouse according to customer needs.
-          
+  - title: Achievements
+    layout: list
+    content:
+      - layout: top-middle
+        border: weak
+        description: |
+        Graduate Student Academic Scholarship at National Level
+         
 #   - title: Project Experiience
 #     layout: text
 #     content: | # this will include new lines to allow paragraphs
